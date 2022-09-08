@@ -5,7 +5,7 @@ import java.nio.file.Paths;//import java from paths
 import java.util.Scanner;// import Scanner class from Java utilities library
 import java.time.format.DateTimeFormatter;// import Date and Time format class from time library 
 import java.time.LocalDateTime;// import Date and Time local class from time library 
-	public class BankAccount
+	public class Main
 	{// start class
 		    static Scanner input = new Scanner (System.in);//make reference to the scanner 
 		    private static String customersNames[]=
