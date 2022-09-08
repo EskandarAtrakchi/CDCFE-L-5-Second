@@ -1,4 +1,4 @@
-public class UseBankAccount {
+public class Main {
 		static BankAccount report = new BankAccount();//connect two classes together
 
 		public static void main (String []args) {//start the main method
