@@ -1,6 +1,6 @@
 import java.util.Scanner;//importing Java utilities from the scanner 
 
-public class Register {//start the class
+public class Main {//start the class
 
 		public String username;//declare the username as a variable 
 		
